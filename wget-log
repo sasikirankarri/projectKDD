@@ -1,0 +1,8 @@
+--2021-11-17 22:51:35--  https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-abstract.xml.gz
+Resolving dumps.wikimedia.org (dumps.wikimedia.org)... 208.80.154.7, 2620:0:861:1:208:80:154:7
+Connecting to dumps.wikimedia.org (dumps.wikimedia.org)|208.80.154.7|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 814713551 (777M) [application/octet-stream]
+Saving to: ‘enwiki-latest-abstract.xml.gz’
+
+enwiki-latest-abstract.xml.gz                        1%[>                                                                                                               ]   9.80M  7.23KB/s    eta 10h 13m
